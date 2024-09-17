@@ -1,3 +1,7 @@
+.titulo{
+    text-align: center;
+}
+
 .parrafo-rojo {
     color: blue;
     font-size: 18px;
@@ -5,4 +9,20 @@
 
 .alineado{
     margin: 30px;
+}
+
+.form-group{
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-send{
+    color: rgb(67, 67, 122);
+    font-size:20px;
+    font-family: 'Arial Narrow Bold', sans-serif, sans-serif;
+    background-color: rgb(229, 208, 176);
+    border: 3px solid;
+    border-color: rgb(182, 193, 202);
+    border-radius: 3px;
 }
